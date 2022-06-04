@@ -7,7 +7,7 @@ Dana would like the UFO Finder webpage to have added functionality. She wants th
 ## Resources
 
 - Data Source: data.js
-- Software: Python 3.7.11, Visual Studio Code 1.67.2
+- Software: JavaScript, Visual Studio Code 1.67.2
 
 ## Results
 
